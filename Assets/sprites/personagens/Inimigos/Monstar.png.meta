@@ -1,0 +1,519 @@
+fileFormatVersion: 2
+guid: 52c8b6705194c214899633f0f3fde895
+timeCreated: 1447262563
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Monstar_0
+    21300002: Monstar_1
+    21300004: Monstar_2
+    21300006: Monstar_3
+    21300008: Monstar_4
+    21300010: Monstar_5
+    21300012: Monstar_6
+    21300014: Monstar_7
+    21300016: Monstar_8
+    21300018: Monstar_9
+    21300020: Monstar_10
+    21300022: Monstar_11
+    21300024: Monstar_12
+    21300026: Monstar_13
+    21300028: Monstar_14
+    21300030: Monstar_15
+    21300032: Monstar_16
+    21300034: Monstar_17
+    21300036: Monstar_18
+    21300038: Monstar_19
+    21300040: Monstar_20
+    21300042: Monstar_21
+    21300044: Monstar_22
+    21300046: Monstar_23
+    21300048: Monstar_24
+    21300050: Monstar_25
+    21300052: Monstar_26
+    21300054: Monstar_27
+    21300056: Monstar_28
+    21300058: Monstar_29
+    21300060: Monstar_30
+    21300062: Monstar_31
+    21300064: Monstar_32
+    21300066: Monstar_33
+    21300068: Monstar_34
+    21300070: Monstar_35
+    21300072: Monstar_36
+    21300074: Monstar_37
+    21300076: Monstar_38
+    21300078: Monstar_39
+    21300080: Monstar_40
+    21300082: Monstar_41
+    21300084: Monstar_42
+    21300086: Monstar_43
+    21300088: Monstar_44
+    21300090: Monstar_45
+    21300092: Monstar_46
+    21300094: Monstar_47
+    21300096: Monstar_48
+    21300098: Monstar_49
+    21300100: Monstar_50
+    21300102: Monstar_51
+    21300104: Monstar_52
+    21300106: Monstar_53
+    21300108: Monstar_54
+    21300110: Monstar_55
+    21300112: Monstar_56
+    21300114: Monstar_57
+    21300116: Monstar_58
+    21300118: Monstar_59
+    21300120: Monstar_60
+    21300122: Monstar_61
+    21300124: Monstar_62
+    21300126: Monstar_63
+    21300128: Monstar_64
+    21300130: Monstar_65
+    21300132: Monstar_66
+    21300134: Monstar_67
+    21300136: Monstar_68
+    21300138: Monstar_69
+    21300140: Monstar_70
+    21300142: Monstar_71
+    21300144: Monstar_72
+    21300146: Monstar_73
+    21300148: Monstar_74
+    21300150: Monstar_75
+    21300152: Monstar_76
+    21300154: Monstar_77
+    21300156: Monstar_78
+    21300158: Monstar_79
+    21300160: Monstar_80
+    21300162: Monstar_81
+    21300164: Monstar_82
+    21300166: Monstar_83
+    21300168: Monstar_84
+    21300170: Monstar_85
+    21300172: Monstar_86
+    21300174: Monstar_87
+    21300176: Monstar_88
+    21300178: Monstar_89
+    21300180: Monstar_90
+    21300182: Monstar_91
+    21300184: Monstar_92
+    21300186: Monstar_93
+    21300188: Monstar_94
+    21300190: Monstar_95
+    21300192: Monstar_96
+    21300194: Monstar_97
+    21300196: Monstar_98
+    21300198: Monstar_99
+    21300200: Monstar_100
+    21300202: Monstar_101
+    21300204: Monstar_102
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Monstar_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 475
+        width: 111
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 474
+        width: 111
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 475
+        width: 113
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 474
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_4
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 475
+        width: 111
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_5
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 474
+        width: 111
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_6
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 476
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_7
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 474
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 337
+        width: 111
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_35
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 335
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_36
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 337
+        width: 113
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_37
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 336
+        width: 111
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_38
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 337
+        width: 111
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_39
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 335
+        width: 110
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_40
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 338
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_41
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 336
+        width: 110
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_83
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 186
+        width: 117
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_84
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 183
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_85
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 296
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_86
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 180
+        width: 113
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_87
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 183
+        width: 112
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_88
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 182
+        width: 112
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_89
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 181
+        width: 113
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_90
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 180
+        width: 114
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_91
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 180
+        width: 113
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_92
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 182
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_93
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 19
+        width: 115
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_94
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 19
+        width: 115
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_95
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 19
+        width: 115
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_96
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 19
+        width: 115
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_97
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 19
+        width: 115
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_98
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 23
+        width: 115
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_99
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 22
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_100
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 22
+        width: 113
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_101
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 22
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monstar_102
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 19
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
