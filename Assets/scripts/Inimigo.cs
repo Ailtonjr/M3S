@@ -6,7 +6,6 @@ public class Inimigo : MonoBehaviour {
     public Transform inimigo;
     private Animator animator;
     public Transform head;
-    static int atakState = Animator.StringToHash("Monstar_Morre");
 
     public static bool morto = false;
 
